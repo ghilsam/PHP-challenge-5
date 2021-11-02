@@ -11,5 +11,5 @@ else if($opponentWeapon == 'whip'){
     $stevensonWeapon = 'fists';
 }    
 else
-    $stevensonWeapon = 'whip';
+{$stevensonWeapon = 'whip';}
 ?>
